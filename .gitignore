@@ -1,5 +1,4 @@
 *.err
 /file
 /.idea
-/.ieda
 config.php
