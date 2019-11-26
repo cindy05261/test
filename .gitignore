@@ -1,3 +1,6 @@
 *.err
 /file
 /.idea
+
+
+/.ieda
