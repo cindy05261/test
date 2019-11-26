@@ -35,5 +35,3 @@ dsfdsdfsdf
 test 6 sourcetree
 ttttt
 zhuce
-
-git reset --soft HEAD^
